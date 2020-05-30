@@ -69,9 +69,4 @@ void loop() {
     servo.write(62);
     Serial.print("normal ");
     }
-
-    
-
-    
-
 }

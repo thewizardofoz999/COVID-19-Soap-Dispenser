@@ -40,7 +40,7 @@ void loop() {
     delay(300);
     servo.write(180);
     delay(305);
-    servo.write(62);
+    servo.write(90);
 
     delay(500);
 
@@ -66,7 +66,7 @@ void loop() {
   }
 
   else {
-    servo.write(62);
+    servo.write(90);
     Serial.print("normal ");
     }
 }
